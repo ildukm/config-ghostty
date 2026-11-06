@@ -26,4 +26,6 @@ palette = 13=#ff55ff
 palette = 14=#6ae3fa
 palette = 15=#ffffff
 
+background-opacity = 0.9
+
 keybind = cmd+backslash=new_split:right
